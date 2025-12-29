@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/Vishveshpandit/PubNubClone.git/static/css/main.d269c343.css",
+    "main.js": "/Vishveshpandit/PubNubClone.git/static/js/main.43137f32.js",
+    "static/media/cart3.jpg": "/Vishveshpandit/PubNubClone.git/static/media/cart3.067712789541759388a9.jpg",
+    "static/media/fa-solid-900.woff2": "/Vishveshpandit/PubNubClone.git/static/media/fa-solid-900.8ae0d37556ff1e685de2.woff2",
+    "static/media/fa-brands-400.woff2": "/Vishveshpandit/PubNubClone.git/static/media/fa-brands-400.1c5c7716b05754cb4eab.woff2",
+    "static/media/front_hero_1.png": "/Vishveshpandit/PubNubClone.git/static/media/front_hero_1.70c239016b3b297a636c.png",
+    "static/media/logo_pubnub.png": "/Vishveshpandit/PubNubClone.git/static/media/logo_pubnub.4dcad5206056e6f04dd5.png",
+    "static/media/cart1.jpg": "/Vishveshpandit/PubNubClone.git/static/media/cart1.1f18bef2b1fa3acb3f45.jpg",
+    "static/media/fa-regular-400.woff2": "/Vishveshpandit/PubNubClone.git/static/media/fa-regular-400.6f05ca9ab7b5345dbc07.woff2",
+    "static/media/headphone.webp": "/Vishveshpandit/PubNubClone.git/static/media/headphone.64fdf494fe1088b6cb56.webp",
+    "static/media/cart6.jpg": "/Vishveshpandit/PubNubClone.git/static/media/cart6.11645ec8fc97e7fc41bd.jpg",
+    "static/media/cart4.jpg": "/Vishveshpandit/PubNubClone.git/static/media/cart4.23de09b98d580a96e8b6.jpg",
+    "static/media/cart5.jpg": "/Vishveshpandit/PubNubClone.git/static/media/cart5.c1b7c89afaa164d0637e.jpg",
+    "static/media/cart2.jpg": "/Vishveshpandit/PubNubClone.git/static/media/cart2.d28e176274641d2589d3.jpg",
+    "static/media/l6.svg": "/Vishveshpandit/PubNubClone.git/static/media/l6.f383b84f02d2e21c4f207a19ae2924a1.svg",
+    "static/media/l9.svg": "/Vishveshpandit/PubNubClone.git/static/media/l9.751e635ced161cb4fda1d698d2ce0110.svg",
+    "static/media/l4.svg": "/Vishveshpandit/PubNubClone.git/static/media/l4.d7638b49cbf8b5593c8a1f0db901e97e.svg",
+    "static/media/fa-v4compatibility.woff2": "/Vishveshpandit/PubNubClone.git/static/media/fa-v4compatibility.e4340c52a50e727c6afa.woff2",
+    "static/media/l2.svg": "/Vishveshpandit/PubNubClone.git/static/media/l2.996fcf9d6298f8f257e7e1048df24f05.svg",
+    "static/media/l3.svg": "/Vishveshpandit/PubNubClone.git/static/media/l3.44b53ec52f256f8c2cbe19f6214fc18d.svg",
+    "static/media/l5.svg": "/Vishveshpandit/PubNubClone.git/static/media/l5.7db716f9c64cb18ed0107df1de94d221.svg",
+    "static/media/l8.svg": "/Vishveshpandit/PubNubClone.git/static/media/l8.e7733d2acfd4385bc3f6d1c388a6370f.svg",
+    "static/media/l7.svg": "/Vishveshpandit/PubNubClone.git/static/media/l7.3f79aecbfd575abf4ffd88ac57e18959.svg",
+    "static/media/l1.svg": "/Vishveshpandit/PubNubClone.git/static/media/l1.6287f6f1dbaa42a5b98f36c0332e1371.svg",
+    "index.html": "/Vishveshpandit/PubNubClone.git/index.html",
+    "main.d269c343.css.map": "/Vishveshpandit/PubNubClone.git/static/css/main.d269c343.css.map",
+    "main.43137f32.js.map": "/Vishveshpandit/PubNubClone.git/static/js/main.43137f32.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d269c343.css",
+    "static/js/main.43137f32.js"
+  ]
+}
